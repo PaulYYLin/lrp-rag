@@ -30,3 +30,7 @@ Use Python 3.12 from the project root. Install dependencies with `uv venv --pyth
 Experiment outputs are written under `artifacts/`. To regenerate both sets of figures from a rerun, pass the three report directories as shown in the figure instructions. With the original report directories, run `.venv/bin/python paper/make_figures.py` with no arguments. Use `--zh-font` to specify a Traditional Chinese font file if needed. [Figure commands](EXPERIMENTS.md#7-重繪報告圖表) · [Figure source](paper/make_figures.py)
 
 [Research protocol (繁體中文)](RESEARCH_PROPOSAL.md) · [Detailed HotpotQA results and examples (繁體中文)](HOTPOTQA_RESULTS.md)
+
+## License
+
+The original code, documentation, and figures are available under the [MIT License](LICENSE). Third-party datasets, models, and packages are governed by their respective licenses and terms of use.
