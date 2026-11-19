@@ -1,4 +1,4 @@
-# 檢索增強生成的學習式向量投影（LRP）
+# Learned Projection for RAG Retrieval: Comparing Exact Search and HNSW in Compressed Embedding Spaces
 
 個人獨立實驗報告 · Yun-Yao(Paul) Lin
 

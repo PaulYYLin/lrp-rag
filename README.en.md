@@ -1,4 +1,4 @@
-# LRP Learned Projection Retrieval
+# Learned Projection for RAG Retrieval: Comparing Exact Search and HNSW in Compressed Embedding Spaces
 
 [繁體中文](README.md) · **English**
 
